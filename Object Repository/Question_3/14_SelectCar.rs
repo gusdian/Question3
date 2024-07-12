@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>14_SelectCar</name>
+   <tag></tag>
+   <elementGuidId>8bd73628-ca2c-4e4d-b1ef-43fd72f7d034</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h3[contains(text(),'${TypeCar}')]/parent::div/parent::div/parent::div/div[3]/div[3]/div)[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

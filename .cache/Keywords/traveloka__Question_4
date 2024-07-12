@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "781340CDEF0110D9EFF60BAC793DF076",
+  "keywordClasses": [
+    {
+      "name": "traveloka.Question_4",
+      "keywordMethods": [
+        {
+          "name": "GameAnswer",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
