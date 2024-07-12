@@ -6,6 +6,7 @@ step running automation
 4. running testsuites for number 3 or 4
 5. open folder report if want see report
 
-NB : /n
-Number 3 : Car rental just can finish until car detail, because after click continue UI web has captcha, but i still make code until payment method /n
+NB :
+Number 3 : Car rental just can finish until car detail, because after click continue UI web has captcha, but i still make code until payment method
+
 Number 4 : I don't know why it's so slow in clicking the number button, I'm sure I've done it correctly, but if you can find a solution to make it faster please let me know because I'm curious
